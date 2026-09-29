@@ -113,7 +113,7 @@ rag-agentic-ai/
 Clone the repository and navigate into the project directory:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/harshithathangella/rag-agentic-ai
 cd rag-agentic-ai
 ```
 
